@@ -21,11 +21,11 @@
 <code>[<img alt="mongodb" width="55px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
 
 
-## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me
+## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me: 
 <code>[<img alt="line" width="55px" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" />][line]</code>
 <code>[<img alt="linkedin" width="55px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats: 
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dorahero&hide=css,java,html&theme=tokyonight">
