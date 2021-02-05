@@ -21,7 +21,9 @@
 <code>[<img alt="mongodb" width="55px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
 
 
-### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
+## Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
+<code>[<img alt="line" width="55px" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" />][line]</code>
+<code>[<img alt="linkedin" width="55px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
 
 ## &#x1f4c8; GitHub Stats
 <br>
@@ -86,7 +88,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </a>    
 
 [linkedin]: https://www.linkedin.com/in/ben-lee-7044a51b3
-[line]: https://line.me/ti/p/zJUO6aAEyf
+[line]: https://line.me/ti/p/0wMkSXPM8s
 [instagram]: https://www.instagram.com/dorahero2727
 [spotify]: https://open.spotify.com/user/11121254916?si=aQSpI0pTRWGakDtcj2bE4w
 [github]: https://github.com/dorahero
