@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Red, Cheng Hung Li. Nice to see you.👋
+## Hi there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>, I'm Red, Cheng Hung Li. Nice to see you.👋 
 
 - 👨🏽‍💻 
 - 🤝 
