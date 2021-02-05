@@ -8,7 +8,7 @@
 - 👋 
  
 ## ⚡ Programing and tools
-<img align="right" alt="python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /><img alt="kotlin" width="22px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /><img alt="swift" width="22px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" /><img alt="java" width="22px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" /><img alt="Visual Studio Code" width="22px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<img alt="python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /><img alt="kotlin" width="30px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /><img alt="swift" width="30px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" /><img alt="java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" /><img alt="Visual Studio Code" width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 
 ### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
