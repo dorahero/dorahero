@@ -16,9 +16,9 @@
 <code>[<img alt="docker" width="45px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />][github]</code>
 <code>[<img alt="spark" width="45px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" />][github]</code>
 <code>[<img alt="pytorch" width="45px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][github]</code>
-<code>[<img alt="tensorflow" width="45px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][github]</code>     
-<code>[<img alt="mysql" width="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][github]</code>     
-<code>[<img alt="mongodb" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>     
+<code>[<img alt="tensorflow" width="45px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][github]</code>
+<code>[<img alt="mysql" width="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][github]</code>
+<code>[<img alt="mongodb" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
 
 
 ### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
