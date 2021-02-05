@@ -8,7 +8,17 @@
 - 👋 
  
 ## ⚡ Languages and Tools:
-[<img alt="python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]     [<img alt="kotlin" width="45px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]     [<img alt="swift" width="45px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]     [<img alt="Visual Studio Code" width="45px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][github]     [<img alt="ubuntu" width="45px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />][github]     [<img alt="docker" width="45px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />][github]     [<img alt="spark" width="45px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" />][github]     [<img alt="pytorch" width="45px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][github]     [<img alt="tensorflow" width="45px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][github]     [<img alt="mysql" width="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][github]     [<img alt="mongodb" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]     
+<code>[<img alt="python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
+<code>[<img alt="kotlin" width="45px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
+<code>[<img alt="swift" width="45px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
+<code>[<img alt="Visual Studio Code" width="45px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][github]</code>
+<code>[<img alt="ubuntu" width="45px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />][github]</code>
+<code>[<img alt="docker" width="45px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />][github]</code>
+<code>[<img alt="spark" width="45px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" />][github]</code>
+<code>[<img alt="pytorch" width="45px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][github]</code>
+<code>[<img alt="tensorflow" width="45px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][github]</code>     
+<code>[<img alt="mysql" width="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][github]</code>     
+<code>[<img alt="mongodb" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>     
 
 
 ### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
