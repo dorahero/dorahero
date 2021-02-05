@@ -7,7 +7,7 @@
 - 🌐 I love thinking about logic problems anytime. 🗿 
 - 👋 I am also passionate about music. 🎵
  
-### ⚡ Languages and Tools:
+## ⚡ Languages and Tools:
 <code>[<img alt="python" width="55px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
 <code>[<img alt="kotlin" width="55px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
 <code>[<img alt="swift" width="55px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
@@ -21,7 +21,7 @@
 <code>[<img alt="mongodb" width="55px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
 
 
-### <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me
+## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me
 <code>[<img alt="line" width="55px" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" />][line]</code>
 <code>[<img alt="linkedin" width="55px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
 
@@ -41,6 +41,8 @@
 <a href="https://github.com/dorahero/leetcode-practice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=leetcode-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
