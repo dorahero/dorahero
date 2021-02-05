@@ -7,6 +7,9 @@
 - 🌐 
 - 👋 
  
+### ⚡Programing
+<img alt="python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+
 ### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
 
 ## &#x1f4c8; GitHub Stats
@@ -29,3 +32,8 @@
 <a href="https://github.com/dorahero/leetcode-practice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=leetcode-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+[linkedin]: https://www.linkedin.com/in/ben-lee-7044a51b3
+[line]: https://line.me/ti/p/zJUO6aAEyf
+[instagram]: https://www.instagram.com/dorahero2727
+[spotify]: https://open.spotify.com/user/11121254916?si=aQSpI0pTRWGakDtcj2bE4w
