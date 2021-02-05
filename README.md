@@ -1,11 +1,10 @@
 <a href="https://www.instagram.com/dorahero2727" target="_blank" rel="nofollow"><img align="right" alt="Red's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://open.spotify.com/user/11121254916?si=aQSpI0pTRWGakDtcj2bE4w" target="_blank" rel="nofollow"><img align="right" alt="Red's Spotify" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/spotify.svg" /><a href="https://github.com/dorahero" target="_blank" rel="nofollow"><img align="right" alt="Red's github" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/github.svg" /></a><a href="https://www.linkedin.com/in/ben-lee-7044a51b3" target="_blank" rel="nofollow"><img align="right" alt="Red's Linkdein" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/linkedin.svg" /></a>
 ## Hi there 👋 , I'm Red Li. Nice to see you.<img src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/hi.gif" width="40px"/>
 
-- 👨🏽‍💻 
-- 🤝 
-- 👨 
-- 🌐 
-- 👋 
+- 👨🏽‍💻 I am passionate about learning new things. 😬 
+- 🤝 I am looking for a suitable job. 👋
+- 🌐 I love thinking about logic problems anytime. 🗿 
+- 👋 I am also passionate about music. 🎵
  
 ## ⚡ Languages and Tools:
 <code>[<img alt="python" width="55px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
@@ -32,6 +31,15 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=dorahero&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 
+
+<a href="https://github.com/dorahero/cvat_yolov5_automatic_annotation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=cvat_yolov5_automatic_annotation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/dorahero/leetcode-practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=leetcode-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -77,15 +85,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<a href="https://github.com/dorahero/cvat_yolov5_automatic_annotation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=cvat_yolov5_automatic_annotation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/dorahero/leetcode-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=leetcode-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 [linkedin]: https://www.linkedin.com/in/ben-lee-7044a51b3
 [line]: https://line.me/ti/p/0wMkSXPM8s
