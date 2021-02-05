@@ -1,4 +1,4 @@
-Hi there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Red, Cheng Hung Li. Nice to see you.👋
+### Hi there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Red, Cheng Hung Li. Nice to see you.👋
 
 - 👨🏽‍💻 
 - 🤝 
@@ -6,7 +6,7 @@ Hi there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShaf
 - 🌐 
 - 👋 
  
- ### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
+### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
 
 ## &#x1f4c8; GitHub Stats
 <br>
