@@ -7,8 +7,14 @@
 - 🌐 
 - 👋 
  
-### ⚡Programing
+## ⚡ Programing and tools
 <img alt="python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img alt="kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" />
+<img alt="swift" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg" />
+<img alt="java" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
+<img alt="java" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
+<img alt="Visual Studio Code" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+
 
 ### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
 
