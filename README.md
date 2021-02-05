@@ -9,7 +9,7 @@
  
  ### Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
 
-<summary> 😇 <b>My Github Stats</b>: </summary>
+## &#x1f4c8; GitHub Stats
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dorahero&hide=css,java,html&theme=tokyonight">
