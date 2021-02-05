@@ -22,10 +22,10 @@
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/dorahero/cvat_yolov5_automatic_annotation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=cvat_yolov5_automatic_annotation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/dorahero/leetcode-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=leetcode-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
