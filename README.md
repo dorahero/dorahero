@@ -1,4 +1,5 @@
-## Hi there 👋 , I'm Red Li. Nice to see you.<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>
+<a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Red's Linkdein" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/assets/linkedin.svg" /></a><a href="https://www.instagram.com/pratikkumar04" target="_blank" rel="nofollow"><img align="right" alt="Red's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+## Hi there 👋 , I'm Red Li. Nice to see you.<img src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/hi.gif" width="40px"/>
 
 - 👨🏽‍💻 
 - 🤝 
