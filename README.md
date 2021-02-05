@@ -1,12 +1,13 @@
 <a href="https://www.instagram.com/dorahero2727" target="_blank" rel="nofollow"><img align="right" alt="Red's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://open.spotify.com/user/11121254916?si=aQSpI0pTRWGakDtcj2bE4w" target="_blank" rel="nofollow"><img align="right" alt="Red's Spotify" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/spotify.svg" /><a href="https://github.com/dorahero" target="_blank" rel="nofollow"><img align="right" alt="Red's github" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/github.svg" /></a><a href="https://www.linkedin.com/in/ben-lee-7044a51b3" target="_blank" rel="nofollow"><img align="right" alt="Red's Linkdein" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/linkedin.svg" /></a>
-## Hi there 👋 , I'm Red Li. Nice to see you.<img src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/hi.gif" width="40px"/>
+### Hi there 👋 , I'm Red Li. Nice to see you.<img src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/hi.gif" width="40px"/>
 
+## 
 - 👨🏽‍💻 I am passionate about learning new things. 😬 
 - 🤝 I am looking for a suitable job. 👋
 - 🌐 I love thinking about logic problems anytime. 🗿 
 - 👋 I am also passionate about music. 🎵
  
-## ⚡ Languages and Tools:
+### ⚡ Languages and Tools:
 <code>[<img alt="python" width="55px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
 <code>[<img alt="kotlin" width="55px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
 <code>[<img alt="swift" width="55px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
@@ -20,7 +21,7 @@
 <code>[<img alt="mongodb" width="55px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
 
 
-## Connect with me<img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px">
+### <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me
 <code>[<img alt="line" width="55px" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" />][line]</code>
 <code>[<img alt="linkedin" width="55px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
 
