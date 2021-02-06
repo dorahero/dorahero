@@ -8,7 +8,7 @@
 - 👋 I am also passionate about **music**. 🎵
 - 📫 How to reach me **dorahero2727@gmail.com**.
  
-### ⚡ Languages and Tools :
+## ⚡ Languages and Tools :
 <code>[<img alt="python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
 <code>[<img alt="kotlin" width="45px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
 <code>[<img alt="swift" width="45px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
@@ -22,11 +22,11 @@
 <code>[<img alt="mongodb" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
 
 
-### <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me : 
+## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me : 
 <code>[<img alt="line" width="45px" src="https://www.vectorlogo.zone/logos/line/line-tile.svg" />][line]</code>
 <code>[<img alt="linkedin" width="45px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
 
-### &#x1f4c8; GitHub Stats: 
+## &#x1f4c8; GitHub Stats: 
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dorahero&hide=css,java,html&theme=tokyonight">
@@ -35,17 +35,19 @@
 
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-381-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-328-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 215 Contributions in the Year 2021
+> 🏆 201 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -97,6 +99,10 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/dorahero/dorahero/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
