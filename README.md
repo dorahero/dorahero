@@ -9,22 +9,22 @@
 - 📫 How to reach me **dorahero2727@gmail.com**.
  
 ## ⚡ Languages and Tools:
-<code>[<img alt="python" width="50px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
+<code>[<img alt="python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
 <code>[<img alt="kotlin" width="45px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
-<code>[<img alt="swift" width="55px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
-<code>[<img alt="Visual Studio Code" width="55px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][github]</code>
-<code>[<img alt="ubuntu" width="55px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />][github]</code>
-<code>[<img alt="docker" width="55px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />][github]</code>
-<code>[<img alt="spark" width="55px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" />][github]</code>
-<code>[<img alt="pytorch" width="55px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][github]</code>
-<code>[<img alt="tensorflow" width="55px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][github]</code>
-<code>[<img alt="mysql" width="55px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][github]</code>
-<code>[<img alt="mongodb" width="55px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
+<code>[<img alt="swift" width="45px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
+<code>[<img alt="Visual Studio Code" width="45px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][github]</code>
+<code>[<img alt="ubuntu" width="45px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />][github]</code>
+<code>[<img alt="docker" width="45px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />][github]</code>
+<code>[<img alt="spark" width="45px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" />][github]</code>
+<code>[<img alt="pytorch" width="45px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][github]</code>
+<code>[<img alt="tensorflow" width="45px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][github]</code>
+<code>[<img alt="mysql" width="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][github]</code>
+<code>[<img alt="mongodb" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
 
 
 ## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me: 
-<code>[<img alt="line" width="55px" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" />][line]</code>
-<code>[<img alt="linkedin" width="55px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
+<code>[<img alt="line" width="45px" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" />][line]</code>
+<code>[<img alt="linkedin" width="45px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
 
 ## &#x1f4c8; GitHub Stats: 
 <br>
