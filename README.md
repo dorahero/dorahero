@@ -23,7 +23,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me: 
-<code>[<img alt="line" width="45px" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" />][line]</code>
+<code>[<img alt="line" width="45px" src="https://www.vectorlogo.zone/logos/line/line-tile.svg" />][line]</code>
 <code>[<img alt="linkedin" width="45px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
 
 ## &#x1f4c8; GitHub Stats: 
