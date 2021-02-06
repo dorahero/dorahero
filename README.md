@@ -10,7 +10,7 @@
  
 ## ⚡ Languages and Tools:
 <code>[<img alt="python" width="50px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
-<code>[<img alt="kotlin" width="55px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
+<code>[<img alt="kotlin" width="45px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
 <code>[<img alt="swift" width="55px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
 <code>[<img alt="Visual Studio Code" width="55px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][github]</code>
 <code>[<img alt="ubuntu" width="55px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />][github]</code>
