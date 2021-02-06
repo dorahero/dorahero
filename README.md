@@ -35,6 +35,20 @@
 
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 172 Contributions in the Year 2021
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -61,10 +75,25 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: Asia/Taipei
+
 💬 Programming Languages: 
 Markdown                 2 hrs               ███████████████████████░░   95.06% 
 YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
+
+🔥 Editors: 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+dorahero                 1 hr 45 mins        █████████████████████░░░░   83.58% 
+arthurtibame             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+peterthehan              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
+itgoyo                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+MartinHeinz              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+
+💻 Operating System: 
+Windows                  2 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
@@ -78,6 +107,10 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/dorahero/dorahero/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
