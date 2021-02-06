@@ -8,7 +8,7 @@
 - 👋 I am also passionate about **music**. 🎵
 - 📫 How to reach me **dorahero2727@gmail.com**.
  
-## ⚡ Languages and Tools:
+## ⚡ Languages and Tools :
 <code>[<img alt="python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
 <code>[<img alt="kotlin" width="45px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
 <code>[<img alt="swift" width="45px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
@@ -22,7 +22,7 @@
 <code>[<img alt="mongodb" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
 
 
-## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me: 
+## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Connect with me : 
 <code>[<img alt="line" width="45px" src="https://www.vectorlogo.zone/logos/line/line-tile.svg" />][line]</code>
 <code>[<img alt="linkedin" width="45px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
 
