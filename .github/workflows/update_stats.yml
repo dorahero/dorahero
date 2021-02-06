@@ -17,5 +17,6 @@ jobs:
           SHOW_COMMIT:  True
           SHOW_LANGUAGE:  True
           SHOW_LINES_OF_CODE: False
+          SHOW_LOC_CHART:  False
           SHOW_PROJECTS: False
           SHOW_OS: False
