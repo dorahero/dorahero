@@ -4,7 +4,7 @@
 ## 
 - 👨🏽‍💻 I am passionate about learning new things. 😬 
 - 🤝 I am looking for a suitable job. 👋
-- 🌐 I love thinking about logic problems anytime. 🗿 
+- 🌐 I love thinking about logic questions. 🗿 
 - 👋 I am also passionate about music. 🎵
  
 ## ⚡ Languages and Tools:
