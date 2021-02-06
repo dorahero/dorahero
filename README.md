@@ -100,6 +100,10 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ```
 
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/dorahero/dorahero/main/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 
