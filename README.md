@@ -2,10 +2,11 @@
 ### Hi there 👋 . I'm Red Li. Nice to see you.<img src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/hi.gif" width="40px"/>
 
 ## 
-- 👨🏽‍💻 I am passionate about learning new things. 😬 
+- 👨🏽‍💻 I am passionate about learning **new things**. 😬 
 - 🤝 I am looking for a suitable job. 👋
-- 🌐 I love thinking about logic questions. 🗿 
+- 🌐 I am willing to accept challenges. 🗿 
 - 👋 I am also passionate about music. 🎵
+- 📫 How to reach me **dorahero2727@gmail.com**.
  
 ## ⚡ Languages and Tools:
 <code>[<img alt="python" width="55px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
