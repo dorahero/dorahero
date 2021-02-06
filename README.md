@@ -3,9 +3,9 @@
 
 ## 
 - 👨🏽‍💻 I am passionate about learning **new things**. 😬 
-- 🤝 I am looking for a suitable job. 👋
-- 🌐 I am willing to accept challenges. 🗿 
-- 👋 I am also passionate about music. 🎵
+- 🤝 I am looking for a **suitable job**. 👋
+- 🌐 I am willing to accept **challenges**. 🗿 
+- 👋 I am also passionate about **music**. 🎵
 - 📫 How to reach me **dorahero2727@gmail.com**.
  
 ## ⚡ Languages and Tools:
