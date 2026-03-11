@@ -1,54 +1,83 @@
-<a href="https://www.instagram.com/dorahero2727" target="_blank" rel="nofollow"><img align="right" alt="Red's Insta" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /></a><a href="https://open.spotify.com/user/11121254916?si=aQSpI0pTRWGakDtcj2bE4w" target="_blank" rel="nofollow"><img align="right" alt="Red's Spotify" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/spotify.svg" /><a href="https://github.com/dorahero" target="_blank" rel="nofollow"><img align="right" alt="Red's github" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/github.svg" /></a><a href="https://www.linkedin.com/in/ben-lee-7044a51b3" target="_blank" rel="nofollow"><img align="right" alt="Red's Linkdein" width="22px" src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/linkedin.svg" /></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there,%20I'm%20Red%20Li!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Data%20Engineer%20%7C%20Passionate%20Learner&descAlignY=55&descSize=20"/>
+</div>
 
-### <em>Hi there👋 . I'm Red Li. Nice to see you.<img src="https://raw.githubusercontent.com/dorahero/dorahero/main/Assets/hi.gif" width="40px"/></em>
+<h3 align="center">I'm a Data Engineer passionate about exploring new technologies and solving challenging problems.</h3>
 
-## <em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">     Data Engineer at <a href="https://www.facebook.com/pg/Modovisionfans/posts/">Modovision</a></em>
-- 👨🏽‍💻 I am passionate about learning **new things**. 😬 
-- 🤝 I am looking for a **suitable job**. 👋
-- 🌐 I am willing to accept **challenges**. 🗿 
-- 👋 I am also passionate about **music**. 🎵
-- 📫 How to reach me **dorahero2727@gmail.com**.
- 
-## ⚡ Languages and Tools :
-<code>[<img alt="python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />][github]</code>
-<code>[<img alt="kotlin" width="45px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][github]</code>
-<code>[<img alt="swift" width="45px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][github]</code>
-<code>[<img alt="Visual Studio Code" width="45px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][github]</code>
-<code>[<img alt="ubuntu" width="45px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />][github]</code>
-<code>[<img alt="docker" width="45px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />][github]</code>
-<code>[<img alt="spark" width="45px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" />][github]</code>
-<code>[<img alt="pytorch" width="45px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][github]</code>
-<code>[<img alt="tensorflow" width="45px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][github]</code>
-<code>[<img alt="mysql" width="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][github]</code>
-<code>[<img alt="mongodb" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][github]</code>
-
-
-## <img src="https://raw.githubusercontent.com/Dorahero/Dorahero/main/Assets/handshake.gif" height="32px"> Contact me : 
-<code>[<img alt="line" width="45px" src="https://www.vectorlogo.zone/logos/line/line-tile.svg" />][line]</code>
-<code>[<img alt="linkedin" width="45px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]</code>
-
-## &#x1f4c8; GitHub Stats: 
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dorahero&hide=css,java,html&theme=tokyonight">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dorahero&show_icons=true&theme=tokyonight&line_height=27">
+<p align="center">
+  <a href="https://dorahero.github.io/#/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=planet&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:dorahero2727@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/ben-lee-7044a51b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/dorahero" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://open.spotify.com/user/11121254916?si=aQSpI0pTRWGakDtcj2bE4w" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+  <a href="https://www.instagram.com/dorahero2727" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://line.me/ti/p/0wMkSXPM8s" target="_blank"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE"/></a>
 </p>
 
-  
+---
 
-<a href="https://github.com/dorahero/cvat_yolov5_automatic_annotation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=cvat_yolov5_automatic_annotation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## 👨‍💻 About Me
 
+* 💼 Previously **Data Engineer** at [Modovision](https://www.facebook.com/pg/Modovisionfans/posts/).
+* 🎯 Looking for **Data Engineer / Software Engineer** roles.
+* � Passionate about learning **new things** and taking on **challenges**.
+* 🎵 In my free time, I love listening to **music** and exploring.
+* 📫 Ping me via email: **dorahero2727@gmail.com**
 
-<a href="https://github.com/dorahero/leetcode-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=leetcode-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-  
+---
 
+## 🛠️ Languages & Tools
 
-[linkedin]: https://www.linkedin.com/in/ben-lee-7044a51b3
-[line]: https://line.me/ti/p/0wMkSXPM8s
-[instagram]: https://www.instagram.com/dorahero2727
-[spotify]: https://open.spotify.com/user/11121254916?si=aQSpI0pTRWGakDtcj2bE4w
-[github]: https://github.com/dorahero
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
+
+### Data & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=E35A16"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dorahero&show_icons=true&theme=tokyonight&line_height=27&hide_border=true&bg_color=0D1117" alt="Red's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorahero&hide=css,java,html&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Red's Top Languages"/>
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+  <a href="https://github.com/dorahero/cvat_yolov5_automatic_annotation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=cvat_yolov5_automatic_annotation&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CVAT YOLOv5 Automatic Annotation" />
+  </a>
+  <a href="https://github.com/dorahero/leetcode-practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dorahero&repo=leetcode-practice&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="LeetCode Practice" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+</div>
